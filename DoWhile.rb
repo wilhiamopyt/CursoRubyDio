@@ -1,7 +1,3 @@
-# Exemplo de doWhile 
-begin
-
-
 count = 0
 loop do 
     puts count
