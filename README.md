@@ -5,3 +5,4 @@
 <h2>PROJETOS</h2>
 
 [CALCULADORA](https://github.com/wilhiamopyt/Ruby/blob/main/DesafioDeCalculadora.rb)
+[CONSULTA CPF ](https://github.com/wilhiamopyt/Ruby/blob/main/DesafioCPF.rb)
